@@ -1050,14 +1050,20 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="5" loc="(620,420)" name="LED">
       <a name="facing" val="north"/>
+      <a name="label" val="S2"/>
+      <a name="labelloc" val="south"/>
     </comp>
     <comp loc="(300,200)" name="maquina"/>
     <comp lib="5" loc="(640,420)" name="LED">
       <a name="facing" val="north"/>
+      <a name="label" val="S3"/>
+      <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(820,110)" name="7-Segment Display"/>
     <comp lib="5" loc="(660,420)" name="LED">
       <a name="facing" val="north"/>
+      <a name="label" val="S4"/>
+      <a name="labelloc" val="south"/>
     </comp>
     <comp lib="0" loc="(380,340)" name="Pin">
       <a name="facing" val="north"/>
@@ -1067,6 +1073,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="5" loc="(600,420)" name="LED">
       <a name="facing" val="north"/>
+      <a name="label" val="S1"/>
+      <a name="labelloc" val="south"/>
     </comp>
   </circuit>
 </project>
